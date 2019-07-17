@@ -1,0 +1,16 @@
+SMAP
+message_005fto_005fstu_jsp.java
+JSP
+*S JSP
+*F
++ 0 message_to_stu.jsp
+message_to_stu.jsp
+*L
+1,16:49
+17,20:66
+36:86
+37:87,3
+38:90
+39:92,2
+40,24:94
+*E
